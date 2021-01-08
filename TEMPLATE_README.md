@@ -57,12 +57,11 @@ Questions to consider:
 
 * The most profitable months for movie releasing are May, June, July, November. During this months tickets sales are high, because of the summer time, where as in April, September, October and December are the least profitable times. The largest amount of movies are released in December, due to holiday season.
 
-![profit](images/profit.png)
-
+<img src = "images/profit.png" width = 600 align = "middle">
 
 * The most common content rating is "R" rating, which is movies for audience older than 17. The least produced ones are "G"- General Audience and "PG" - Parental Guidance Suggested. Large amount of movies by "Netflix" have not been rated("NR" - not rated).
 
-![rating](images/rating.png)
+<img src = "images/rating.png" width = 600 align = "middle">
 
 
 ***
