@@ -1,6 +1,8 @@
-# Title
+# Movie Industry Analysis for Microsoft
 
-**Authors**: Student1, Student2
+**Author**: Aziza Gulyamova
+
+![director_shot](images/irector_shot.jpeg)
 
 ## Overview
 
