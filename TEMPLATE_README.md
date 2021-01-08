@@ -5,13 +5,14 @@
 ![director_shot](images/director_shot.jpeg)
 
 ## Overview
+***
 
 The purpose of this project is to help Microsoft better understand movie industry and figure out what kind of movies are doing the best currently in world. Using this analysis Microsoft can build up a strategy for creating their own movies that will definetly hit the top.
 Through this analysis, I will show some interesting trends in the data pertaining to what successful movies have in common. This analysis will mainly be done through the examination of provided datasets.
 
-***
 
 ## Business Problem
+***
 
 In order to better understand the movie industry and find out what kind of movies Microsoft should produce to get the most of it, I analyzed the data sources and formulated 4 questions that Microsoft should consider before making the decision to enter movie industry and start filming:
 
@@ -22,11 +23,12 @@ In order to better understand the movie industry and find out what kind of movie
 
 The questions will provide Microsoft valuable insight on which genres it should focus on to increase its likelihood of generating high gross sales. Does it need to consider the runtime of the movie when filming, what is the best time to release the movie for higher profit and what movie content it should focus on.
 
-***
+
 
 ![hollywood](images/Hollywood_Sign_(Zuschnitt).jpg)
 
 ## Data
+***
 
 For this project, in order to analyze the world's movie industry, the Datasets are provided from different sources, such that:
 * IMDB
@@ -41,6 +43,7 @@ The datasets above contain various types of information about each movie, rangin
 
 
 ## Methods
+***
 
 This Project uses descriptive analysis method, such that distribution and bar graphs, statistical functions. The method helps to explore the dataset, filter out less meaningfull data, compare differnt databases and provide insights on relations between datasets.
 
@@ -52,6 +55,8 @@ This Project uses descriptive analysis method, such that distribution and bar gr
 
 
 ## Results
+***
+
 * The analysis shows that out of 30 Top genres the most profitable ones are "Adventure, Animation, Comedy", "Action, Adventure, Sci-Fi", "Action, Adventure, Fantasy" and "Action, Adventure, Comedy" genres. But the most produced genres are "Drama", "Documentary" and "Comedy" while having low return on investment.
 
 <img src = "images/genres.png" width = 600 align = "middle">
@@ -66,8 +71,6 @@ This Project uses descriptive analysis method, such that distribution and bar gr
 
 <img src = "images/rating.png" width = 600 align = "middle">
 
-
-***
 
 ## Conclusion
 
@@ -86,8 +89,6 @@ This analysis provides Microsoft with insight to movie industry on factors to co
 
 
 * The analysis might not solve the problems questions fully, due to filtering out missing values, which might result in miscalculated data.
-***
-
 
 
 ## Further Analysis
@@ -100,10 +101,10 @@ Modeling following analysis could give more detailed insights to Microsoft about
 * **Comparing the profits from domestic gross and worldwide gross** will help to focus on proper audience and market
 * **Analysis of movies based on critics rating and directors**, will help to identify which directors get the highest ratings from critics. 
 
-***
 
 
 ## For More Information
+***
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
