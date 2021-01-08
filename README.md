@@ -7,7 +7,7 @@
 ## Overview
 
 
-The purpose of this project is to help Microsoft better understand movie industry and figure out what kind of movies are doing the best currently in world. Using this analysis Microsoft can build up a strategy for creating their own movies that will definetly hit the top.
+The purpose of this project is to help Microsoft better understand movie industry and figure out what kind of movies are doing the best currently in world. Using this analysis Microsoft can build up a strategy for creating their own movies that will definitely hit the top.
 Through this analysis, I will show some interesting trends in the data pertaining to what successful movies have in common. This analysis will mainly be done through the examination of provided datasets.
 ***
 
@@ -18,7 +18,7 @@ In order to better understand the movie industry and find out what kind of movie
 * What genres are the most popular and giving the most profit?
 * Is there a correlation between the average ratings and the runtime of the movie?
 * Is there a correlation between movie's release date and gross profit?
-* What are the Top 10 succesfull studios and what are their content ratings focus?
+* What are the Top 10 successful studios and what are their content ratings focus?
 
 The questions will provide Microsoft valuable insight on which genres it should focus on to increase its likelihood of generating high gross sales. Does it need to consider the runtime of the movie when filming, what is the best time to release the movie for higher profit and what movie content it should focus on.
 
@@ -43,7 +43,7 @@ The datasets above contain various types of information about each movie, rangin
 
 ## Methods
 
-This Project uses descriptive analysis method, such that distribution and bar graphs, statistical functions. The method helps to explore the dataset, filter out less meaningfull data, compare differnt databases and provide insights on relations between datasets.
+This Project uses descriptive analysis method, such that distribution and bar graphs, statistical functions. The method helps to explore the dataset, filter out less meaningful data, compare different databases and provide insights on relations between datasets.
 
 * Grouping and merging some datasets helps to categorize the information and retrieve necessary data only. In this case, joining IMDB Tables and The Number Movies Table, combining average ratings and genres, group the datasets by genre, title, studio and etc. 
 
@@ -59,28 +59,28 @@ This Project uses descriptive analysis method, such that distribution and bar gr
 
 <img src = "images/genres.png" width = 600 align = "middle">
 
-* The caclulation of correlation between average rating and runtime of the movie, shows that these two datasets are not related.
+* The calculation of correlation between average rating and runtime of the movie, shows that these two datasets are not related.
 
-* The most profitable months for movie releasing are May, June, July, November. During this months tickets sales are high, because of the summer time, where as in April, September, October and December are the least profitable times. The largest amount of movies are released in December, due to holiday season.
+* The most profitable months for movie releasing are May, June, July, November. During these months tickets sales are high, because of the summertime, whereas in April, September, October and December are the least profitable times. The largest number of movies are released in December, due to holiday season.
 
 <img src = "images/profit.png" width = 600 align = "middle">
 
-* The most common content rating is "R" rating, which is movies for audience older than 17. The least produced ones are "G"- General Audience and "PG" - Parental Guidance Suggested. Large amount of movies by "Netflix" have not been rated("NR" - not rated).
+* The most common content rating is "R" rating, which is movies for audience older than 17. The least produced ones are "G"- General Audience and "PG" - Parental Guidance Suggested. Large number of movies by "Netflix" have not been rated ("NR" - not rated).
 
 <img src = "images/rating.png" width = 600 align = "middle">
 ***
 
 ## Conclusion
 
-This analysis provides Microsoft with insight to movie industry on factors to consider to increase the chance of producing movies that will hit the top in cinematography. The following are the recommendations:
+This analysis provides Microsoft with insight to movie industry on factors to consider increasing the chance of producing movies that will hit the top in cinematography. The following are the recommendations:
 
 * It would be the most profitable for Microsoft to make movies in "Adventure, Animation, Comedy", "Action, Adventure, Sci-Fi", "Action, Adventure, Fantasy" and "Action, Adventure, Comedy", because they have highest return on investment and not the most produced genres. Thus, increasing the chances to get interest of audience.
 
 * When producing movies, do not give extra attention to runtime, because the ratings are not correlated with length of movie.
 
-* The most proftable months for movie release are May, June, July and November. Microsoft would hit highest ROI during these months. Also, it is recomended to avoid releaing in April, September, October and December, considering the fact that profits arew low during these times and December has the highest amount of releases.
+* The most profitable months for movie release are May, June, July and November. Microsoft would hit highest ROI during these months. Also, it is recommended to avoid releasing in April, September, October and December, since profits are low during these times and December has the highest amount of releases.
 
-* When choosing the content rating, it would be suggested to choose the most popular one, such that "R". Because it would have high chances to get interest of audience. Or choose the least produced one as a niche, which might be less competative.
+* When choosing the content rating, it would be suggested to choose the most popular one, such that "R". Because it would have high chances to get interest of audience. Or choose the least produced one as a niche, which might be less competitive.
 
 
 
@@ -100,6 +100,6 @@ Modeling following analysis could give more detailed insights to Microsoft about
 ## For More Information
 
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or our [presentation](./Movie_Industry_Analysis_Presentation.pdf).
 
 For any additional questions, please contact **Aziza Gulyamova. Email: agulyamova14@gmail.com**
