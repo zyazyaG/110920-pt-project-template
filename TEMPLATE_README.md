@@ -2,7 +2,7 @@
 
 **Author**: Aziza Gulyamova
 
-![director_shot](images/irector_shot.jpeg)
+![director_shot](images/director_shot.jpeg)
 
 ## Overview
 
