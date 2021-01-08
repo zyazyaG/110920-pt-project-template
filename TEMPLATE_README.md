@@ -83,7 +83,9 @@ This analysis provides Microsoft with insight to movie industry on factors to co
 
 * When choosing the content rating, it would be suggested to choose the most popular one, such that "R". Because it would have high chances to get interest of audience. Or choose the least produced one as a niche, which might be less competative.
 
-### The analysis might not solve the problems questions fully, due to filtering out missing values, which might result in miscalculated data.
+
+
+* The analysis might not solve the problems questions fully, due to filtering out missing values, which might result in miscalculated data.
 ***
 
 
