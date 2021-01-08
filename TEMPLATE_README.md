@@ -69,7 +69,7 @@ This Project uses descriptive analysis method, such that distribution and bar gr
 
 ***
 
-## Conclusions
+## Conclusion
 
 ***
 
@@ -109,15 +109,3 @@ Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-t
 
 For any additional questions, please contact **Aziza Gulyamova. Email: agulyamova14@gmail.com**
 
-## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
-
-├── README.md                                                  <- The top-level README for reviewers of this project
-├── Movie_Industry_Analysis_for_Microsoft.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── Movie_Industry_Analysis_Presentation.pdf                   <- PDF version of project presentation
-├── data                                                       <- Both sourced externally and generated from code
-├── src                                                        <- Additional files with functions and codes
-└── images                                                     <- Both sourced externally and generated from code
-
-```
