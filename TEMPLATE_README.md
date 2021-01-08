@@ -51,7 +51,7 @@ Questions to consider:
 ## Results
 * The analysis shows that out of 30 Top genres the most profitable ones are "Adventure, Animation, Comedy", "Action, Adventure, Sci-Fi", "Action, Adventure, Fantasy" and "Action, Adventure, Comedy" genres. But the most produced genres are "Drama", "Documentary" and "Comedy" while having low return on investment.
 
-![genres](images/genres.png)
+<img src="images/genres.png" width = 50>
 
 * The caclulation of correlation between average rating and runtime of the movie, shows that these two datasets are not related.
 
