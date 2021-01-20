@@ -99,6 +99,6 @@ Modeling following analysis could give more detailed insights to Microsoft about
 ## For More Information
 
 
-Please review my full analysis in my [Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or my [presentation](./Movie_Industry_Analysis_Presentation.pdf).
+Please review my full analysis in my [Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or my [presentation](./Movie_Industry_Analysis_Presentation.pptx).
 
 For any additional questions, please contact **Aziza Gulyamova. Email: agulyamova14@gmail.com**
