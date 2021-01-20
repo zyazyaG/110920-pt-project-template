@@ -7,13 +7,13 @@
 ## Overview
 
 
-The purpose of this project is to help Microsoft better understand movie industry and figure out what kind of movies are doing the best currently in world. Using this analysis Microsoft can build up a strategy for creating their own movies that will definitely hit the top.
-Through this analysis, I will show some interesting trends in the data pertaining to what successful movies have in common. This analysis will mainly be done through the examination of provided datasets.
+The purpose of this project is to help Microsoft better understand movie industry and figure out what kind of movies are doing the best currently in the world. Using this analysis Microsoft can build up a strategy for creating their own movies that will be profitable and popular.
+Through this analysis, I will show some interesting trends in the data pertaining to what successful movies have in common. 
 ***
 
 ## Business Problem
 
-In order to better understand the movie industry and find out what kind of movies Microsoft should produce to get the most of it, I analyzed the data sources and formulated 4 questions that Microsoft should consider before making the decision to enter movie industry and start filming:
+In order to better understand the movie industry and find out what kind of movies Microsoft should produce to get the most of it, in this project I seek to answer 4 questions that Microsoft could consider before making the decision to enter movie industry and start filming:
 
 * What genres are the most popular and giving the most profit?
 * Is there a correlation between the average ratings and the runtime of the movie?
@@ -29,7 +29,7 @@ The questions will provide Microsoft valuable insight on which genres it should 
 
 ## Data
 
-For this project, in order to analyze the world's movie industry, the Datasets are provided from different sources, such that:
+For this project, in order to analyze the world's movie industry, the data was used from following sources:
 * IMDB
 * Box Office Mojo
 * The Number movie Budgets
@@ -43,13 +43,13 @@ The datasets above contain various types of information about each movie, rangin
 
 ## Methods
 
-This Project uses descriptive analysis method, such that distribution and bar graphs, statistical functions. The method helps to explore the dataset, filter out less meaningful data, compare different databases and provide insights on relations between datasets.
+This Project uses descriptive analysis method, like distribution and bar graphs, statistical functions. Using this method, I filter out less meaningful information and compare performance of films across differnts data sources.
 
 * Grouping and merging some datasets helps to categorize the information and retrieve necessary data only. In this case, joining IMDB Tables and The Number Movies Table, combining average ratings and genres, group the datasets by genre, title, studio and etc. 
 
 * Building plots and graphs improve the ability to comprehend the data and be able to analyze it better. As in this project, figure out what are the top genres and their ROI, what are the best seasons to release movies and what are top studios. 
 
-* Statistical methods help to calculate the average values, correlation and distribution. In this case, calculate correlation between average rating and runtime, calculate the average return on investment.
+* Statistical methods help to calculate the average values. Correlations and distributions were used for this purpose . In this case, calculate correlation between average rating and runtime, calculate the average return on investment.
 ***
 
 
@@ -84,14 +84,13 @@ This analysis provides Microsoft with insight to movie industry on factors to co
 
 
 
-* The analysis might not solve the problems questions fully, due to filtering out missing values, which might result in miscalculated data.
 ***
 
 ## Further Analysis
 
 Modeling following analysis could give more detailed insights to Microsoft about the industry:
 
-* **Study of relation between average rating and actors in the movie** could be helpful to strategize the casting for the moving
+* **Study of relation between average rating and actors in the movie** could be helpful to strategize the casting for the movie
 * **Comparing the profits from domestic gross and worldwide gross** will help to focus on proper audience and market
 * **Analysis of movies based on critics rating and directors**, will help to identify which directors get the highest ratings from critics. 
 
@@ -100,6 +99,6 @@ Modeling following analysis could give more detailed insights to Microsoft about
 ## For More Information
 
 
-Please review our full analysis in [our Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or our [presentation](./Movie_Industry_Analysis_Presentation.pdf).
+Please review my full analysis in my [Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or my [presentation](./Movie_Industry_Analysis_Presentation.pdf).
 
 For any additional questions, please contact **Aziza Gulyamova. Email: agulyamova14@gmail.com**
