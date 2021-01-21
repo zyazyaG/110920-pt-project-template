@@ -61,9 +61,11 @@ This Project uses descriptive analysis method, like distribution and bar graphs,
 
 * The calculation of correlation between average rating and runtime of the movie, shows that these two datasets are not related.
 
+<img src = "images/scatter.png" width = 600 align = "middle">
+
 * The most profitable months for movie releasing are May, June, July, November. During these months tickets sales are high, because of the summertime, whereas in April, September, October and December are the least profitable times. The largest number of movies are released in December, due to holiday season.
 
-<img src = "images/profit.png" width = 600 align = "middle">
+<img src = "images/release.png" width = 600 align = "middle">
 
 * The most common content rating is "R" rating, which is movies for audience older than 17. The least produced ones are "G"- General Audience and "PG" - Parental Guidance Suggested. Large number of movies by "Netflix" have not been rated ("NR" - not rated).
 
