@@ -43,7 +43,7 @@ The datasets above contain various types of information about each movie, rangin
 
 ## Methods
 
-This Project uses descriptive analysis method, like distribution and bar graphs, statistical functions. Using this method, I filter out less meaningful information and compare performance of films across differnts data sources.
+This Project uses descriptive analysis method, like distribution and bar graphs, statistical functions. Using this method, I filter out less meaningful information and compare performance of films across different data sources.
 
 * Grouping and merging some datasets helps to categorize the information and retrieve necessary data only. In this case, joining IMDB Tables and The Number Movies Table, combining average ratings and genres, group the datasets by genre, title, studio and etc. 
 
