@@ -55,7 +55,7 @@ This Project uses descriptive analysis method, like distribution and bar graphs,
 
 ## Results
 
-* The analysis shows that out of 30 Top genres the most profitable ones are "Adventure, Animation, Comedy", "Action, Adventure, Sci-Fi", "Action, Adventure, Fantasy" and "Action, Adventure, Comedy" genres. But the most produced genres are "Drama", "Documentary" and "Comedy" while having low return on investment.
+* The analysis shows that out of 30 Top genres the most profitable ones are **"Adventure, Animation, Comedy", "Horror, Mystery, Thriller", "Action, Adventure, Fantasy" and "Action, Comedy, Crime"** genres. But the most produced genres are **"Drama", "Documentary" and "Comedy"** while having low return on investment.
 
 <img src = "images/genres.png" width = 600 align = "middle">
 
@@ -63,7 +63,7 @@ This Project uses descriptive analysis method, like distribution and bar graphs,
 
 <img src = "images/scatter.png" width = 600 align = "middle">
 
-* The most profitable months for movie releasing are May, June, July, November. During these months tickets sales are high, because of the summertime, whereas in April, September, October and December are the least profitable times. The largest number of movies are released in December, due to holiday season.
+* The most profitable months for movie releasing are **January, February, July and November**. During these months tickets sales are high, because of the holuday season, whereas **June and September** are the least profitable times. The largest number of movies are released in **December**.
 
 <img src = "images/release.png" width = 600 align = "middle">
 
@@ -76,11 +76,11 @@ This Project uses descriptive analysis method, like distribution and bar graphs,
 
 This analysis provides Microsoft with insight to movie industry on factors to consider increasing the chance of producing movies that will hit the top in cinematography. The following are the recommendations:
 
-* It would be the most profitable for Microsoft to make movies in "Adventure, Animation, Comedy", "Action, Adventure, Sci-Fi", "Action, Adventure, Fantasy" and "Action, Adventure, Comedy", because they have highest return on investment and not the most produced genres. Thus, increasing the chances to get interest of audience.
+* It would be the most profitable for Microsoft to make movies in **"Adventure, Animation, Comedy", "Horror, Mystery, Thriller", "Action, Adventure, Fantasy" and "Action, Comedy, Crime"**, because they have highest return on investment and not the most produced genres. Thus, increasing the chances to get interest of audience.
 
 * When producing movies, do not give extra attention to runtime, because the ratings are not correlated with length of movie.
 
-* The most profitable months for movie release are May, June, July and November. Microsoft would hit highest ROI during these months. Also, it is recommended to avoid releasing in April, September, October and December, since profits are low during these times and December has the highest amount of releases.
+* The most profitable months for movie release are **January, February, July and November**. Microsoft would hit highest ROI during these months. Also, it is recommended to avoid releasing in **June and September**, since profits are low during these times.
 
 * When choosing the content rating, it would be suggested to choose the most popular one, such that "R". Because it would have high chances to get interest of audience. Or choose the least produced one as a niche, which might be less competitive.
 
@@ -101,6 +101,6 @@ Modeling following analysis could give more detailed insights to Microsoft about
 ## For More Information
 
 
-Please review my full analysis in my [Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or my [presentation](./Movie_Industry_Analysis.pptx).
+Please review my full analysis in my [Jupyter Notebook](./Movie_Industry_Analysis_for_Microsoft.ipynb) or my [presentation](./Movie_Industry_Analysis.pdf).
 
 For any additional questions, please contact **Aziza Gulyamova. Email: agulyamova14@gmail.com**
